@@ -3,7 +3,7 @@ import './styles.css'
 
 // stateless components
 const Header = () => (
-    <header id="main-header">JSHunt</header>
+    <header id="main-header">Star Wars</header>
 );
 
 export default Header
